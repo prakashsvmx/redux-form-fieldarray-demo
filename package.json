@@ -1,0 +1,24 @@
+{
+  "name": "redux-form-selecting-form-values-example",
+  "version": "0.0.27",
+  "description": "An example of how to use formValueSelector to inject values from your form into the form component itself.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "redux-form-website-template": "0.0.41",
+    "redux-form": "7.0.4",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "react-dom": "15.6.1",
+    "react": "15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
